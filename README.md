@@ -4,10 +4,6 @@
 
 <p>I've made mobile apps and web apps using technologies such as Android, React, Vue and Flutter</p>
 
-
-
-<img align="left" alt = "Adithya's github stats" src="https://github-readme-stats.vercel.app/api?username=Adi343&show_icons=true&theme=radical"/>
-
 [![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adi343)](https://github.com/Adi343/github-readme-stats)
 
 <br>
