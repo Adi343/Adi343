@@ -8,6 +8,4 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adi343)](https://github.com/Adi343/github-readme-stats)
-
-<img align="left" alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi343" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adi343&layout=compact)](https://github.com/Adi343/github-readme-stats)
