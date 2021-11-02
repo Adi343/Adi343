@@ -8,6 +8,8 @@
 
 <img align="left" alt = "Adithya's github stats" src="https://github-readme-stats.vercel.app/api?username=Adi343&show_icons=true&theme=radical"/>
 
+[![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adi343)](https://github.com/Adi343/github-readme-stats)
+
 <br>
 
 <img align="left" alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi343" />
