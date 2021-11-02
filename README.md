@@ -8,4 +8,4 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adi343&layout=compact)](https://github.com/Adi343/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adi343&layout=compact&theme=cobalt2)](https://github.com/Adi343/github-readme-stats)
